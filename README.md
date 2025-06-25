@@ -1,3 +1,9 @@
+
+![Screenshot (449)](https://github.com/user-attachments/assets/ee638d3c-7578-45fb-96e1-ee192dbd052b)
+![Screenshot (449)](https://github.com/user-attachments/assets/ee638d3c-7578-45fb-96e1-ee192dbd052b)
+
+
+
 # chatbot
 🤖 Chatbot Using TensorFlow and NLP
 A simple AI chatbot built using Python, TensorFlow, and Natural Language Processing (NLP). It uses a trained neural network model (my_model.keras) and an intents-based JSON structure to interact with users.
